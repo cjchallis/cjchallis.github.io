@@ -1,0 +1,234 @@
+{
+  "name": "Game 20",
+  "winners": [
+    {
+      "name": "Game 18",
+      "winners": [
+        {
+          "name": "Game 14",
+          "winners": [
+            {
+              "name": "Game 9",
+              "winners": [
+                {"name": "Challis (1)"},
+                {
+                  "name": "Game 1",
+                  "winners": [
+                    {"name": "Jeff (16)"},
+                    {"name": "Chandler (17)"}              
+                  ]
+                }              
+              ]
+            },
+            {
+              "name": "Game 6",
+              "winners": [
+                {"name": "Brooke (8)"},
+                {"name": "Spencer (9)"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Game 15",
+          "winners": [
+            {
+              "name": "Game 10",
+              "winners": [
+                {"name": "Tensmeyer (5)"},
+                {
+                  "name": "Game 2",
+                  "winners": [
+                    {"name": "Erik (12)"},
+                    {"name": "Peter (21)"}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Game 11",
+              "winners": [
+                {
+                  "name": "Game 3",
+                   "winners": [
+                      {"name": "Colton (13)"},
+                      {"name": "Alan (20)"}
+                  ]
+                },
+                {"name": "Dave (4)"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Game 19",
+      "winners": [
+          {
+            "name": "Game 16",
+            "winners": [
+              {
+                "name": "Game 12",
+                "winners": [
+                  {"name": "Brent (2)"},
+                  {
+                    "name": "Game 4",
+                    "winners": [
+                      {"name": "Ilya (15)"},
+                      {"name": "Matt (18)"}
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Game 7",
+                "winners": [
+                  {"name": "Caleb (7)"},
+                  {"name": "Ryan (10)"}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Game 17",
+            "winners": [
+              {
+                "name": "Game 8",
+                "winners": [
+                  {"name": "Alicia (6)"},
+                  {"name": "John (11)"}
+                ]
+              },
+              {
+                "name": "Game 13",
+                "winners": [
+                  {
+                    "name": "Game 5",
+                    "winners": [
+                      {"name": "Sorina (14)"},
+                      {"name": "Sarah (19)"}
+                    ]
+                  },
+                  {"name": "Mike (3)"}
+                ]
+              }
+            ]
+          }
+      ]
+    }
+  ],
+  "challengers": [
+    {
+      "name": "",
+      "challengers": [
+        {
+          "name": "",
+          "challengers": [
+            {"name": "Loser G18"},
+            {
+              "name": "",
+              "challengers": [
+                {
+                  "name": "",
+                  "challengers": [
+                    {"name": "Loser G14"},
+                    {
+                      "name": "",
+                      "challengers": [
+                        {"name": "Loser G7"},
+                        {
+                          "name": "",
+                          "challengers": [
+                            {"name": "Loser G1"},
+                            {"name": "Loser G12"}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "challengers": [
+                    {
+                      "name": "",
+                      "challengers": [
+                        {
+                          "name": "",
+                          "challengers": [
+                            {"name": "Loser G3"},
+                            {"name": "Loser G13"}
+                          ]
+                        },
+                        {
+                          "name": "",
+                          "challengers": [
+                            {"name": "Loser G2"},
+                            {"name": "Loser G8"}
+                          ]
+                        }
+                      ]
+                    },
+                    {"name": "Loser G15"}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "challengers": [
+            {
+              "name": "",
+              "challengers": [
+                {
+                  "name": "",
+                  "challengers": [
+                    {"name": "Loser G16"},
+                    {
+                      "name": "",
+                      "challengers": [
+                        {"name": "Loser G6"},
+                        {
+                          "name": "",
+                          "challengers": [
+                            {"name": "Loser G4"},
+                            {"name": "Loser G9"}
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "challengers": [
+                    {
+                      "name": "",
+                      "challengers": [
+                        {
+                          "name": "",
+                          "challengers": [
+                            {"name": "Loser G5"},
+                            {"name": "Loser G11"}
+                          ]
+                        },
+                        {"name": "Loser G10"}
+                      ]
+                    },
+                    {"name": "Loser G17"}
+                  ]
+                }
+              ]
+            },
+            {"name": "Loser G19"}
+          ]
+        }
+      ]
+    },
+    {"name": "Loser G20"}
+  ]
+}
+
